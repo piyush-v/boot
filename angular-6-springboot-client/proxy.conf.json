@@ -1,0 +1,6 @@
+{
+  "/api/v1/employees": {
+    "target": "http://ec2-3-14-70-12.us-east-2.compute.amazonaws.com:8080",
+    "secure": false
+  }
+}
